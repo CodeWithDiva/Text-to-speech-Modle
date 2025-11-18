@@ -1,0 +1,2 @@
+# Text to speech Modle
+**Ultimate TTS Converter Pro** is a full-featured text-to-speech tool that turns written text into natural-sounding voice audio. You can choose from online or offline engines, select male or female voices, and pick from different voice tones. The software lets you play audio, save files, view your generation history, and switch between dark and light themes. You can also adjust settings to fit your needs. It’s a great choice for content creators, educators, and anyone looking for accessible audio solutions.

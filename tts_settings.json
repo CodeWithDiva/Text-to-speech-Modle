@@ -1,0 +1,14 @@
+{
+    "output_folder": ".",
+    "default_voice": "male",
+    "voice_tone": "standard",
+    "speech_rate": "normal",
+    "volume": 1.0,
+    "output_format": "wav",
+    "auto_play": true,
+    "theme": "dark",
+    "tts_engine": "offline",
+    "accent_color": "#00798c",
+    "auto_save": false,
+    "playback_speed": 1.0
+}
